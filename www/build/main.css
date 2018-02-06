@@ -9011,6 +9011,7 @@ ion-content.has-refresher > .scroll-content {
   bottom: 0;
   position: absolute;
   display: block;
+background: url(assets/imgs/bg.png);	
 }
 
 [ion-fixed] {
