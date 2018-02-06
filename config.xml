@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter3" version="5.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>admob5.3</name>
+<widget id="io.ionic.starter3" version="5.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>admob5.7</name>
     <description>Ionic admob 5 test</description>
     <author email="hi@ionicframework" href="http://ionicframework.co44m/">Ionic Framework Team</author>
     <content src="index.html" />
